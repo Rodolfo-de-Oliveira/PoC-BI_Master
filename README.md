@@ -50,6 +50,7 @@ Considerando a saída do processo binária ("sim/não"), sabemos que até mesmo 
 ### 4. Conclusões
 
 Apesar de não alcançar resultados realmente altos, considerando tratar-se de um problema real, com dados reais, a acurácia atingida foi um avanço e um sucesso para o uso real da ferramenta. Com 69,54% de acurácia os profissionais da Cia. poderão focar sua atenção com maior assertividade aos itens que potencialmente necessitarão de correções ainda nas etapas iniciais, reduzindo o risco de atraso na entrega dos materiais.
+
 ---
 
 Matrícula Rodolfo de Oliveira: **192.671.027**
